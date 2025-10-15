@@ -1,0 +1,5 @@
+// ADD: soma topo com próximo
+// SUB: subtrai topo do próximo (op1 - op2)
+// PUSH: empilha número/variável
+// POP: guarda topo em variável
+// PRINT: imprime topo
