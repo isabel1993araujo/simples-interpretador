@@ -1,5 +1,4 @@
 # Simples Interpretador (Parte 8)
-
 Atividade Individual - Simples Interpretador”
 
 ## Como compilar e executar
@@ -10,7 +9,6 @@ java -cp . Main
 
 
 # Simples Interpretador — Parte 8
-
 Atividade Individual — **“De um Simples Tradutor a um Simples Interpretador”**  
 Objetivo: implementar um **interpretador simples** baseado em uma linguagem de **pilha** com os comandos `PUSH`, `POP`, `ADD`, `SUB` e `PRINT`.
 
@@ -19,7 +17,6 @@ Objetivo: implementar um **interpretador simples** baseado em uma linguagem de *
 ---
 
 ## Funcionalidades
-
 - Pilha de inteiros
 - Variáveis simples (armazenadas via `POP <nome>`, lidas com `PUSH <nome>`)
 - Operações aritméticas básicas: `ADD` (soma) e `SUB` (subtração)
