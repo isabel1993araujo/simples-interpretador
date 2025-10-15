@@ -2,7 +2,7 @@
 
 Atividade Individual - Simples Interpretador”
 
-## 💻 Como compilar e executar
+## Como compilar e executar
 ```bash
 javac *.java
 java -cp . Main
@@ -18,7 +18,7 @@ Objetivo: implementar um **interpretador simples** baseado em uma linguagem de *
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Pilha de inteiros
 - Variáveis simples (armazenadas via `POP <nome>`, lidas com `PUSH <nome>`)
@@ -28,8 +28,18 @@ Objetivo: implementar um **interpretador simples** baseado em uma linguagem de *
 
 ---
 
-## 🧱 Estrutura do repositório
+## Estrutura do repositório
 ├── Main.java # Programa de demonstração (entrada de comandos)
 ├── Interpretador.java # Interpretador (parsing de linhas e execução)
 ├── .gitignore # Ignora arquivos .class (binários)
 └── README.md # Este arquivo
+
+---
+
+## Requisitos
+
+- **Java JDK 21+** (recomendado JDK 25 LTS)
+- Verifique no terminal:
+  ```bash
+  java -version
+  javac -version
