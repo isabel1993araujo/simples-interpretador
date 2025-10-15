@@ -1,3 +1,9 @@
 // Simples Interpretador - Parte 8
 // Autora: Isabel Araujo
 // Data: 2025-10-15
+
+// ADD: soma topo com próximo
+// SUB: subtrai topo do próximo (op1 - op2)
+// PUSH: empilha número/variável
+// POP: guarda topo em variável
+// PRINT: imprime topo
