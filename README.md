@@ -29,3 +29,7 @@ Objetivo: implementar um **interpretador simples** baseado em uma linguagem de *
 ---
 
 ## 🧱 Estrutura do repositório
+├── Main.java # Programa de demonstração (entrada de comandos)
+├── Interpretador.java # Interpretador (parsing de linhas e execução)
+├── .gitignore # Ignora arquivos .class (binários)
+└── README.md # Este arquivo
